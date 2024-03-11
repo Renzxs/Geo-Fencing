@@ -83,8 +83,8 @@ export default function App() {
   const plvCoordinates = [
     { latitude: 14.698308460529411, longitude: 120.97805292647185},
     { latitude: 14.697909897611515, longitude: 120.9785104403765},
-    { latitude: 14.69774052532916, longitude:  120.9783530242524 },
-    { latitude: 14.697544825329498, longitude: 120.9785499058216,},
+    { latitude: 14.697634278716698, longitude:  120.97826592917714},
+    { latitude: 14.697493995863578, longitude: 120.97848576169154},
     { latitude: 14.69799102713776,  longitude: 120.97910785868693},
     { latitude: 14.698330650279443,  longitude: 120.97942575829676},
     { latitude: 14.69870010458837,  longitude: 120.97925731895182},
@@ -129,8 +129,8 @@ export default function App() {
   const coedBuildingCoordinates = [ 
     { latitude: 14.697947798794987, longitude: 120.978578187153},
     { latitude: 14.697731055979835, longitude: 120.97879029713086},
-    { latitude: 14.697544825329498, longitude: 120.9785499058216,},
-    { latitude: 14.69774052532916, longitude:  120.9783530242524 },
+    { latitude: 14.697493995863578, longitude: 120.97848576169154},
+    { latitude: 14.697634278716698, longitude:  120.97826592917714},
   ]
 
   if (!location) {
